@@ -13,8 +13,8 @@
 * Clone github repo
 * "$ npm install"
 * "$ npm start"
-* Open http://localhost:1234/
-* Enjoy!
+* See terminal for results of code on index.ts file
+* Adjust index.ts file as desired to test different inputs and check terminal for automatic updates of results
 
 ## Known Bugs
 * No known bugs 
